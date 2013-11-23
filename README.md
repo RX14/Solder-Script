@@ -4,6 +4,7 @@ Solder-Script
 A command-line utility that will automagically package solder mods for you!
 
 To use:
+
 1) Get the latest packaged release from my jenkins:
 
 2) Unzip the package
